@@ -1,0 +1,88 @@
+body {
+  background-color: #5b134c;
+}
+
+.mainpart {
+  position: relative;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.header {
+  background-color: green;
+}
+
+.Startseite-text {
+  color: #00c6fb;
+  padding-right: 20%;
+}
+
+.container-fluid {
+  padding: 0 15%
+}
+
+.mainpart {
+  background-image: url(https://brandenburgersommerabend.de/assets/images/landing_page_bg.jpg);
+  height: 43.75rem;
+  background-size: cover;
+}
+
+.Informationen {
+  top: 5%;
+  right: 5%;
+}
+
+.Video {
+  top: 36%;
+  right: 5%;
+}
+
+.Datenschutz {
+  top: 36%;
+  right: 21%;
+}
+
+.box {
+  width: 12.5rem;
+  height: 12.5rem;
+  background-color: green;
+  position: absolute;
+  border: 0.3125rem solid;
+  border-color: red;
+}
+
+.oranger-strich {
+  width: 7.5rem;
+  height: 0.1875rem;
+  background-color: #ff6d00;
+  margin-left: 0.3125rem;
+}
+
+p {
+  padding: 0.3125rem;
+}
+
+.Luft {
+  padding-top: 2.5%;
+}
+
+.imfooter{
+  background-color: white;
+  height: 5.3125rem;
+  border-left: 0.0625rem solid #5b134c;
+  font-size: 0.625rem;
+  color: #5b134c;
+  overflow:hidden;
+
+}
+
+.sparkasse{
+  padding-top:0.9375rem;
+}
+
+.imfooter img{
+  padding-top: 0.5rem;
+}
